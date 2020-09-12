@@ -3,7 +3,7 @@
     "name": "Claudio Benjamin",
     "occupation": "HBO Software Engineering Student",
     "description": "Full Stack Developer, Coding en Gym Lifestyle.",
-    "image": "IG_Sonny.jpeg",
+    "image": "profilepic.png",
     "bio": "Mijn naam is Claudio, Ik ben een Full Stack ReactJS Developer. Momenteel opzoek naar de perfecte werkplek om mijn skills te kunnen showcasen",
     "contactmessage": "Neem contact met mij op als u denkt dat ik de perfecte match ben binnen uw bedrijf.",
     "email": "benjamin.claudio@gmail.com",
@@ -40,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Dit zijn de skills die ik bezit",
     "education": [
       {
         "school": "De Haagse Hogeschool",
@@ -59,8 +59,16 @@
     ],
     "skills": [
       {
+        "name": "Java",
+        "level": "75%"
+      },
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "90%"
       },
       {
         "name": "CSS",
@@ -68,25 +76,17 @@
       },
       {
         "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Java",
-        "level": "55%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
+        "level": "75%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Amazon Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": ""
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
       }
     ]
   },
