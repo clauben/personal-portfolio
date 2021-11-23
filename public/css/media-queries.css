@@ -1,8 +1,6 @@
 /* ==================================================================
 
-*   Ceevee Media Queries
-*   url: styleshout.com
-*   03-18-2014
+hello world
 
 /* ================================================================== */
 
@@ -17,6 +15,11 @@
       font: 80px/1.1em 'opensans-bold', sans-serif;
       letter-spacing: -1px;
       margin: 0 auto 12px auto;
+   }
+
+   #resume .skills__cell {
+      width: 255px;
+      padding: 35px;
    }
 
 }
@@ -61,6 +64,11 @@
    ------------------------------------------------------------------- */
    #resume h1 { font: 16px/24px 'opensans-bold', sans-serif; }
    #resume .main-col { padding-right: 5%; }   
+
+   #resume .skills__cell {
+      width: 255px;
+      padding: 35px;
+   }
 
    /* Testimonials Section
    ------------------------------------------------------------------- */
@@ -237,6 +245,11 @@
       
    .bars { width: 100%; }
 
+   #resume .skills__cell {
+      width: 100%;
+      padding: 50px;
+   }
+
 
    /* Call To Action Section
    /* ----------------------------------------------------------------- */
@@ -369,6 +382,11 @@
    /* social links */
    footer .social-links { font-size: 20px; }
    footer .social-links li { margin-left: 14px; }   
+
+   #resume .skills__cell {
+      width: 100%;
+      padding: 50px;
+   }
 
 }
 

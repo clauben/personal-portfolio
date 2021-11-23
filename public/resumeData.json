@@ -2,10 +2,9 @@
   "main": {
     "name": "Claudio Benjamin",
     "occupation": "HBO Software Engineering Student",
-    "description": "Full Stack Developer, Coding en Gym Lifestyle.",
+    "description": "Full Stack .NET Developer",
     "image": "profilepic.png",
-    "bio": "Mijn naam is Claudio, Ik ben een Full Stack ReactJS Developer. Momenteel opzoek naar de perfecte werkplek om mijn skills te kunnen showcasen",
-    "contactmessage": "Neem contact met mij op als u denkt dat ik de perfecte match ben binnen uw bedrijf.",
+    "bio": "",
     "email": "benjamin.claudio@gmail.com",
     "phone": "+316 81900313",
     "address": {
@@ -15,13 +14,8 @@
       "zip": "3086 XA"
     },
     "website": "http://www.claudiobenjamin.nl",
-    "resumedownload": "",
+    "resumedownload": "https://1drv.ms/b/s!AlIbzPvoPsM0gZlF18a6TOUxsJ9UOw?e=bgzLxJ",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/benjamin.claudio",
-        "className": "fa fa-facebook"
-      },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/claudiobenjamin/",
@@ -40,21 +34,51 @@
     ]
   },
   "resume": {
-    "skillmessage": "Dit zijn de skills die ik bezit",
+    "skillmessage": "Programmeertalen en frameworks veranderen in hoog tempo, maar deze zijn mij het meest bijgebleven.",
     "education": [
+      {
+        "school": "Grafisch Lyceum Rotterdam",
+        "degree": "MBO ICT-beheer",
+        "graduated": "July 2010",
+        "description": "Diploma"
+      },
       {
         "school": "De Haagse Hogeschool",
         "degree": "Bachelor Software Engineer",
-        "graduated": "July 2022",
+        "graduated": "Heden - July 2022",
         "description": "Fulltime Student"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Rucanor Europe B.V.",
+        "title": "System Administrator",
+        "years": "Februari 2009 - Juli 2009",
+        "description": "Stage"
+      },
+      {
+        "company": "Footlocker",
+        "title": "Sales Assosiate",
+        "years": "Juni 2006 - December 2009",
+        "description": "Verkoopmedewerker."
+      },
+      {
+        "company": "Vapiano",
+        "title": "Horeca Medewerker",
+        "years": "Augustus 2014 - September 2019",
+        "description": "Horeca Medewerker"
+      },
+      {
+        "company": "Fit For Free",
+        "title": "Fitness Instructeur",
+        "years": "April 2019 - October 2019",
+        "description": "Trainingen Sportclub Faciliteren."
+      },
+      {
+        "company": "Temper",
+        "title": "Freelancer",
+        "years": "October 2019 - Januari 2021",
+        "description": "ZZPer op verschillende loacties"
       }
     ],
     "skills": [
@@ -83,10 +107,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "BB Online Coaching",
+        "category": "Mijn persoonlijke pagina voor online fitness coaching",
+        "image": "bbcoaching.png",
+        "url": "https://www.bbonlinecoaching.com"
+      },
+      {
+        "title": "InDeBuurt",
+        "category": "ASP.NET Socialmedia platform",
+        "image": "house.jpg",
+        "url": "https://indebuurt.azurewebsites.net/"
       }
     ]
   },

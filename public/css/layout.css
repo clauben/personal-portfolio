@@ -281,6 +281,39 @@ ul#nav li.current a { color: #F06000; }
    margin-top: 6px;
 }
 
+.skills__section {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   max-width: 1024px;
+   margin: auto;
+}
+
+.skills__banner {
+   align-items: center;
+   width: 100%;
+   font-weight: 800;
+}
+
+.skills__cell {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin-bottom: 30px;
+}
+
+.skills__logo {
+   height: auto;
+   margin-bottom: 15px;
+}
+
+.skills__text {
+   text-align: center;
+}
+
+
+
+
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
@@ -493,6 +526,7 @@ ul#nav li.current a { color: #F06000; }
 }
 .portfolio-item .item-wrap img {
    vertical-align: bottom;
+   border-radius: 10px;
 }
 .portfolio-item .portfolio-item-meta { padding: 18px }
 .portfolio-item .portfolio-item-meta h5 {
@@ -933,6 +967,7 @@ call-to-action .button {
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
+   background: #313131;
    color: #303030;
    font-size: 14px;
    text-align: center;
@@ -995,7 +1030,7 @@ footer .social-links li:first-child { margin-left: 0; }
 	display: block;
 	width: 60px;
 	height: 60px;
-	background-color: #525252;
+	background-color: #990d0d;
 
 	-webkit-transition: all 0.2s ease-in-out;
    -moz-transition: all 0.2s ease-in-out;
